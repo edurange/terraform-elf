@@ -22,9 +22,9 @@ Groups:
 - Name: Students
   Instructions: First ssh into strace with the Public IP Address and credentials. Then follow the instructions in the guide.
   Access:
-  - Instance: strace
+  - Instance: Elf
 #    Administrator: false
-#    IP_Visible: true
+    IP_Visible: true
   Users:
   - Login: student
 Instances:
